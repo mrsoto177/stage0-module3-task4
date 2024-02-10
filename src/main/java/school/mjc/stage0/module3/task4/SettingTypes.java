@@ -8,8 +8,6 @@ public class SettingTypes {
        double forth = 12.90434323324342;
        float fifth = 12.3F;
        byte sixth = 1;
-       int  seventh = 129;
-       
-       System.out.println(third);
+       int  seventh = 129;       
     }
 }
